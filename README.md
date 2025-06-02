@@ -7,6 +7,7 @@ A lightweight C program to display, search, sort, and export tabular data from a
 ## 🔧 Features
 
 - **Display Data**
+
   Show the first *n* rows of data.
 - **Select Data**
   Search rows by exact match in any column.
