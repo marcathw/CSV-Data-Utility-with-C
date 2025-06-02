@@ -15,9 +15,9 @@ A lightweight C program to display, search, sort, and export tabular data from a
 
 ## 🧠 Concepts Used
 
-- File I/O (`fopen`, `fscanf`, `fprintf`)
+- File I/O
 - Structs & arrays for tabular data
-- String handling (`strcmp`, `strcpy`)
+- String handling
 - Modular design with functions
 - QuickSort (string & numeric fields)
 - Input validation & CLI menu
