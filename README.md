@@ -6,10 +6,10 @@ A lightweight C program to display, search, sort, and export tabular data from a
 
 ## 🔧 Features
 
-- **Display:** Show the first *n* rows of data.
-- **SelectRow:** Search rows by exact match in any column.
-- **SortBy:** Sort by any column in ascending or descending order using QuickSort.
-- **Export:** Save the current dataset to a new `.csv` file.
+- **Display Data:** Show the first *n* rows of data.
+- **Select Data:** Search rows by exact match in any column.
+- **Sort Data:** Sort by any column in ascending or descending order using QuickSort.
+- **Export Data:** Save the current dataset to a new `.csv` file.
 
 ---
 
